@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nodemon --exec babel-node src/server.js",
     "generate": "prisma generate",
-    "prisma": "yarn run deploy && yarn run generate",
+    "prisma": "yarn generate && yarn deploy",
     "deploy": "prisma deploy"
   },
   "repository": {
