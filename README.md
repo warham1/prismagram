@@ -1,5 +1,9 @@
 # User Stories
 
+- [x] Create account
+- [ ] Request Secret
+- [ ] Confirm Secret (Login)
+- [ ] Log in
 - [ ] See the feed
 - [ ] Like / Unlike a photo
 - [ ] Comment on a photo
@@ -9,7 +13,5 @@
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Create account
-- [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
