@@ -1,8 +1,8 @@
 # User Stories
 
 - [x] Create account
-- [ ] Request Secret
-- [ ] Confirm Secret (Login)
+- [x] Request Secret
+- [x] Confirm Secret (Login)
 - [ ] Log in
 - [ ] See the feed
 - [ ] Like / Unlike a photo

@@ -32,3 +32,7 @@ export const sendSecretMail = (adress, secret) => {
     };
     return sendMail(email);
 };
+
+export const generateToken = (id) => {
+    
+}
