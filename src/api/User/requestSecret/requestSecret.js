@@ -1,5 +1,4 @@
 import { generateSecret, sendSecretMail} from "../../../utils"
-import { makePrismaClientClass } from "prisma-client-lib";
 import { prisma } from "../../../../generated/prisma-client";
 
 export default {
@@ -11,12 +10,9 @@ export default {
                 await sendSecretMail(email, loginSecret);
                 await prisma.updateUser({ data : {loginSecret}, where: { email } });
                 return true;
-            }catch (error) {
-                console.log(error);
-                
+            }catch {
                 return false;
             }
-            
         }
     }
-}
+};

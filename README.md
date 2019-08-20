@@ -3,9 +3,9 @@
 - [x] Create account
 - [x] Request Secret
 - [x] Confirm Secret (Login)
+- [x] Like / Unlike a photo
 - [ ] Log in
 - [ ] See the feed
-- [ ] Like / Unlike a photo
 - [ ] Comment on a photo
 - [ ] Search by user
 - [ ] Search by location
