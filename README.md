@@ -12,7 +12,10 @@
 - [x] See user profile
 - [x] See my profile
 - [x] See the full photo
-- [ ] Log in
-- [ ] See the feed
-- [ ] Upload a photo
-- [ ] Edit the photo (Delete)
+- [x] Upload a photo
+- [x] Edit the photo (Delete)
+- [x] See the feed
+- [ ] See Rooms
+- [ ] See Room
+- [ ] Send private Message
+- [ ] Recieve Message (Real Time)
