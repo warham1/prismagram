@@ -57,6 +57,11 @@ type Message {
   room: Room!
 }
 
+type UserProfile {
+  user: User!
+  posts: [Post!]!
+}
+
 type Query {
   _dummy : String
 }

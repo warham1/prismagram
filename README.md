@@ -8,10 +8,11 @@
 - [x] Search by user
 - [x] Search by location
 - [x] Follow / Unfollow User
+- [x] Edit my profile
+- [x] See user profile
+- [x] See my profile
+- [x] See the full photo
 - [ ] Log in
 - [ ] See the feed
-- [ ] See user profile
-- [ ] See the full photo
-- [ ] Edit my profile
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
