@@ -77,13 +77,6 @@ type Message {
   updatedAt: String
 }
 
-type UserProfile {
-  user: User!
-  posts: [Post!]!
-  createAt: String
-  updatedAt: String
-}
-
 type Query {
-  _dummy : String
+  _dummy: String
 }
